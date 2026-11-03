@@ -1,0 +1,9 @@
+[
+  {
+    "name": "가상 계좌",
+    "bank": "가상 은행",
+    "type": "checking",
+    "balance": 750000,
+    "rate": 0
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "monthlyIncome": 2400000,
+  "payday": 25,
+  "age": 30,
+  "riskProfile": "중립형",
+  "emergencyFundMonths": 2,
+  "debts": [],
+  "goals": [
+    {
+      "name": "가상 목표",
+      "target": 1200000,
+      "saved": 300000,
+      "deadline": "2028-12"
+    }
+  ]
+}
